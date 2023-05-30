@@ -1,0 +1,56 @@
+Meus Livros - 
+
+Listas dos livros que gostei,   = lista 
+livros que não gostei (Enum) = usar como atributos
+
+--- alterar nome();
+
+Livros que gostei -   lista dos livros ===  (l  )
+String: nome 
+String: Autor
+String: cor_capa
+Int lançamento
+Int nota (0-10)
+
+categorias Livros (Enum)
+String: nome 
+String: Autor
+String: cor_capa
+Int lançamento
+Int nota (0-10)
+
+
+
+Livros (Interface)
+
+String: nome 
+String: Autor
+String: cor_capa
+Int lançamento
+Int nota (0-10)
+
+
+
+Livros  Romance (classe que recebe a interface )
+String: nome 
+String: Autor
+String: cor_capa
+Int lançamento
+Int nota (0-10)
+
+Livros  de Ação( classe que recebe a interface  )
+String: nome 
+String: Autor
+String: cor_capa
+Int lançamento
+Int nota (0-10)
+
+
+Armazenamento
+Criar uma arquivo .txt, para armazenar os livros cadastrados 
+remover / salvar = atualizar 
+listar 
+
+--- Atualizar e criar o menu 
+
+--  aumentar numero de vezes que li 

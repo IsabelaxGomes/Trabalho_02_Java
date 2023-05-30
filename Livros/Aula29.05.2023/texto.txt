@@ -1,0 +1,4 @@
+Espécie,Perigo,Velocidade
+Cobra,15,30
+Crocodilo,20,8
+Pintscher,300,800 
